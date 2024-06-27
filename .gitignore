@@ -12,4 +12,4 @@ staticfiles/
 
 # IDE specific
 .vscode/
-.idea/
+.idea/*.pyc\n__pycache__/\n.env\ndb.sqlite3\n/media
